@@ -93,7 +93,7 @@
 ![Alt text](建議購買清單.pdf)
 
 ### 福利社各樣物品價目
-![Alt text](list1.pdf)
+![Alt text](pic.pdf)
 
 ### 役別甄選流程圖
 台北市兵役局發的役別甄選流程圖。
